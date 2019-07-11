@@ -17,7 +17,7 @@ public class Listcheck {
 				mylist.add(array[i]);
 			
 			else if(mylist.contains(array[i]))
-			
+			{
 				System.out.println(" first repeated value is   "+ array[i]);
 				break;
 			}
